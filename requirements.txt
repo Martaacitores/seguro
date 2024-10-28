@@ -2,3 +2,7 @@ Flask
 pandas
 matplotlib
 scikit-learn
+shap
+xgboost
+imblearn
+
